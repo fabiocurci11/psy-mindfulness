@@ -6,7 +6,7 @@ interface GreetingProps {
 
 export const Greeting = ({ name }: GreetingProps) => {
     
-    const [user, setUser] = useState('User');
+    const [user, setUser] = useState('Usfer');
 
     return (
         <div>
